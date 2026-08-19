@@ -54,7 +54,7 @@ Space debris is accumulating rapidly, threatening both active satellites and fut
 ## 📄 Full Research Paper
 
 The full write-up — including literature review, methodology, and detailed results — is published as an open-access preprint on Zenodo:
-🔗 *[Add your Zenodo DOI link here]*
+🔗 *[https://zenodo.org/records/22016828]*
 
 ## 👩‍💻 Author
 
